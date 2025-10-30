@@ -1,0 +1,4 @@
+/*Anade las clases de tailwind al css*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
