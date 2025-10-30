@@ -13,7 +13,7 @@ import { AuthProvider } from './context/AuthProvider';
 import { PacienteProvider } from './context/PacientesProvider';
 import AdministrarPaciente from './paginas/AdministrarPaciente'
 import CambiarPassword from './paginas/cambiarPassword';
-import EditarPerfil from './paginas/editarPerfil';
+import EditarPerfil from './paginas/EditarPerfil';
 
 function App() {
   return (
