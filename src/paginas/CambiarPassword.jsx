@@ -1,4 +1,4 @@
-import AdminNav from "../component/adminNav"
+import AdminNav from "../component/AdminNav"
 import Alerta from "../component/Alerta";
 import { useState } from "react";
 import useAuth from "../hooks/useAuth";
